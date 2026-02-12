@@ -1,0 +1,6 @@
+models/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+models/**/*.faiss filter=lfs diff=lfs merge=lfs -text
+models/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
+models/**/*.pth filter=lfs diff=lfs merge=lfs -text
+models/**/*.json filter=lfs diff=lfs merge=lfs -text
+models/saved_models/feature_matcher/zero_shot_model filter=lfs diff=lfs merge=lfs -text
