@@ -10,6 +10,9 @@ A production-ready Retrieval-Augmented Generation (RAG) chatbot designed to gene
 Large Language Models (LLMs) are powerful but often generate hallucinated or non-factual responses. This project solves that problem by implementing a **Retrieval-Augmented Generation (RAG) pipeline** combined with **security guardrails** that restrict queries to domain-specific data and prevent malicious prompt injections.
 
 ---
+<img width="356" height="433" alt="Screenshot 2025-08-07 170316" src="https://github.com/user-attachments/assets/61921a74-b1a3-4bf1-bf55-295744d184b8" />
+
+<img width="356" height="406" alt="Screenshot 2025-08-07 171449" src="https://github.com/user-attachments/assets/4a62bb82-b69d-474e-82be-2d55ec45578c" />
 
 ## 🚀 Features
 
